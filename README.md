@@ -2,4 +2,4 @@
 
 ## OUTPUT:
 
-![ad1](https://github.com/Ishu-Vasanth/CSS-Advanced-Project/assets/94154614/6dc3f652-5045-4f4f-8596-d605f6644531)
+![op](https://github.com/Ishu-Vasanth/CSS-Advanced-Project/assets/94154614/8c85e6b7-6678-49dd-ad8d-1f1b66790f9b)
